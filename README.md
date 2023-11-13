@@ -10,3 +10,4 @@ ALX INTERVIEW
 * [0x04-utf8_validation](https://github.com/Finally-Kwaku/alx-interview/tree/master/0x04-utf8_validation)
 * [0x05-nqueens](https://github.com/KipronohVincent/alx-interview/tree/master/0x05-nqueens)
 * [0x06-starwars_api](https://github.com/Finally-Kwaku/alx-interview/tree/master/0x06-starwars_api)
+* [0x07-rotate_2d_matrix](https://github.com/Finally-Kwaku/alx-interview/tree/master/0x07-rotate_2d_matrix)
