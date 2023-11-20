@@ -11,3 +11,4 @@ ALX INTERVIEW
 * [0x05-nqueens](https://github.com/KipronohVincent/alx-interview/tree/master/0x05-nqueens)
 * [0x06-starwars_api](https://github.com/Finally-Kwaku/alx-interview/tree/master/0x06-starwars_api)
 * [0x07-rotate_2d_matrix](https://github.com/Finally-Kwaku/alx-interview/tree/master/0x07-rotate_2d_matrix)
+* [0x08-making_change](https://github.com/Finally-Kwaku/alx-interview/tree/master/0x08-making_change)
